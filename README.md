@@ -64,7 +64,7 @@ My toolkit is constantly evolving, but here are some of the technologies I'm pro
 </p>
 
 ### 📅 Contribution Calendar
-<img src="https://ghchart.rshah.org/409ba5/xunntiee" alt="Contribution Calendar" width="100%"/
+<img src="https://ghchart.rshah.org/409ba5/xunntiee" alt="Contribution Calendar" width="100%"/>
 
 ## 🏗️ Project Showcase
 
